@@ -1,5 +1,6 @@
 import 'dart:io';
 
+// FireFluth is the my own starting kit
 import 'package:firefluth/models/nav_bar.dart';
 import 'package:firefluth/routes.dart';
 import 'package:firefluth/screens/splash/splash_screen.dart';
